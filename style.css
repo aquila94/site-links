@@ -69,10 +69,12 @@
   text-decoration: none;
 }
 .title{
+  font-family: 'Avalors Personal Use';
+  letter-spacing: 5px;
+  color: #FFFFFF;
   font-size: 16px;
   text-shadow: 0 0 1px white;
 }
-
 #glow {
   position: absolute;
   display: flex;
